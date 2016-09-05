@@ -1,0 +1,39 @@
+/*$citrineWhite: #F2F9D4;
+$jungleGreen: #26A663;
+$mandi: #E04654;
+$pink: #FFC0CB;*/
+
+
+* {
+  border: 0;
+  margin: 0;
+}
+
+section {
+  background-color: #FFC0CB;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.svg-content {
+  width: 800px;
+}
+
+.water-color{
+ fill: #F2F9D4;
+}
+
+.shel-color{
+ fill:  #26A663;
+}
+
+.pulp-color{
+ fill: #E04654;
+}
+
+
+  .st5{opacity:0.16;}
+  .st6{fill:#3F4140;}
